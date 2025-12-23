@@ -1,3 +1,12 @@
+
+# Assignment: 04 
+## Name: Alamin islam
+## gamil: alaminstudent57@gmail.com
+[live URL](https://alamin-codes.github.io/Food-Recipe-App/)
+
+---
+
+
 # 🍽️ Food Recipe App
 
 A simple and responsive food recipe web application built with **Vanilla JavaScript** using the **TheMealDB API**.  

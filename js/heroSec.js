@@ -4,7 +4,7 @@ export function heroSec(root) {
     heroSec.classList.add("hero_sec");
     heroSec.style.height = "300px";
     heroSec.style.width = "100%";
-    heroSec.style.backgroundImage = 'url("../images/page-title.jpg")';
+    heroSec.style.backgroundImage = 'url("./images/page-title.jpg")';
     heroSec.style.backgroundSize = "cover";
     heroSec.style.backgroundPosition = "center";
     heroSec.style.backgroundRepeat = "no-repeat";

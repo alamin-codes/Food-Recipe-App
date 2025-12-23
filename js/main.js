@@ -26,4 +26,4 @@ loadFood();
 footer(root);
 scrollToTop(root);
 
-console.log(loadFood);
+
